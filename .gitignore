@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Python Environment
+.python-version
+
+# Test Cache
+.pytest_cache/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# Output Files (Optional)
+# Uncomment if you don't want generated transcripts in GitHub
+# output/
