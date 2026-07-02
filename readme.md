@@ -207,8 +207,7 @@ This project was developed during my **Artificial Intelligence Internship** at *
 
 ## 🔗 Project Links
 
-- GitHub Repository: _Add after uploading_
-- Internship Offer Letter: _Optional_
+- GitHub Repository: [Link](https://github.com/charanepuri/speech-to-text-transcription)
 
 ---
 
